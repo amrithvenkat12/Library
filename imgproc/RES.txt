@@ -1,0 +1,10 @@
+C:\ProgramData\National Instruments\Vision Assistant\18590426.png	3/10/2018	12:44:28 PM
+	Classification Score	Identification Score	Left	Top	Width	Height	
+1	997		108	135	11	21	
+6	916		124	135	14	22	
+0	991		141	136	16	22	
+6	957		159	136	15	22	
+0	986		177	137	15	21	
+2	995		196	137	14	22	
+0	831		213	137	16	24	
+
